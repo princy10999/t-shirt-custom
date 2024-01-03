@@ -1,0 +1,266 @@
+[
+    {
+        "id": 1,
+        "name": "Amazon Brand - Inkast Denim Co. Men's Regular T-Shirt",
+        "amount": 229,
+        "printamount": 90,
+        "collamount": 80,
+        "image": "https://m.media-amazon.com/images/I/71USp1pV0oL._UY879_.jpg",
+        "color": "Irish Navy",
+        "collar": false,
+        "print": false,
+        "size": [
+            {
+                "size": "X",
+                "id": "x",
+                "price": 20
+            },
+            {
+                "size": "M",
+                "id": "m",
+                "price": 40
+            },
+            {
+                "size": "L",
+                "id": "l",
+                "price": 50
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Amazon Brand - Inkast Denim Co. Men's Regular T-Shirt",
+        "amount": 229,
+        "printamount": 90,
+        "collamount": 80,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScv3tjs1xlNpwCT1t1XhQtF2PQ4CyLkAMCbyxVUnJpEiZIn81Wp4iIREY7vNU42jqfCO8&usqp=CAU",
+        "color": "Irish Navy",
+        "collar": false,
+        "print": true,
+        "size": [
+            {
+                "size": "X",
+                "id": "x",
+                "price": 50
+            },
+            {
+                "size": "L",
+                "id": "l",
+                "price": 70
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Amazon Brand - Inkast Denim Co. Men's Regular T-Shirt",
+        "amount": 229,
+        "printamount": 90,
+        "collamount": 80,
+        "image": "https://5.imimg.com/data5/SELLER/Default/2022/7/BW/NU/WS/52975333/4-500x500.jpg",
+        "color": "Irish Navy",
+        "collar": true,
+        "print": true,
+        "size": [
+            {
+                "size": "M",
+                "id": "m",
+                "price": 50
+            },
+            {
+                "size": "L",
+                "id": "l",
+                "price": 70
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Amazon Brand - Inkast Denim Co. Men's Regular T-Shirt",
+        "amount": 229,
+        "printamount": 90,
+        "collamount": 80,
+        "image": "https://5.imimg.com/data5/JP/HS/MY-3199429/navy-blue-collar-t-shirt-500x500.jpg",
+        "color": "Irish Navy",
+        "collar": true,
+        "print": false,
+        "size": [
+            {
+                "size": "X",
+                "id": "x",
+                "price": 0
+            },
+            {
+                "size": "M",
+                "id": "m",
+                "price": 30
+            },
+            {
+                "size": "L",
+                "id": "l",
+                "price": 40
+            },
+            {
+                "size": "XL",
+                "id": "xl",
+                "price": 70
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Amazon Brand - Inkast Denim Co. Men's Regular T-Shirt",
+        "amount": 229,
+        "printamount": 90,
+        "collamount": 50,
+        "image": "https://m.media-amazon.com/images/I/61Ssbj1iuyL._UY550_.jpg",
+        "color": "Black",
+        "collar": false,
+        "print": false,
+        "size": [
+            {
+                "size": "X",
+                "id": "x",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Amazon Brand - Inkast Denim Co. Men's Regular T-Shirt",
+        "amount": 229,
+        "printamount": 90,
+        "collamount": 50,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWX256lGqSxyc08fp7qQF-NGRmJX2gr_CRm1jabgsCw1JPn_l95zZ8eaongafNu6XAumw&usqp=CAU",
+        "color": "Black",
+        "collar": false,
+        "print": true
+    },
+    {
+        "id": 7,
+        "name": "Amazon Brand - Inkast Denim Co. Men's Regular T-Shirt",
+        "amount": 229,
+        "printamount": 90,
+        "collamount": 50,
+        "image": "http://cdn.shopify.com/s/files/1/0439/7560/6434/products/black_1200x1200.jpg?v=1598613144",
+        "color": "Black",
+        "collar": true,
+        "print": false,
+        "size": [
+            {
+                "size": "X",
+                "id": "x",
+                "price": 30
+            },
+            {
+                "size": "M",
+                "id": "m",
+                "price": 60
+            },
+            {
+                "size": "L",
+                "id": "l",
+                "price": 80
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Amazon Brand - Inkast Denim Co. Men's Regular T-Shirt",
+        "amount": 229,
+        "printamount": 90,
+        "collamount": 50,
+        "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/1439177/2016/8/1/11470053116001-Metersbonwe-Black-Printed-Polo-T-shirt-1281470053115752-1.jpg",
+        "color": "Black",
+        "collar": true,
+        "print": true,
+        "size": [
+            {
+                "size": "L",
+                "id": "l",
+                "price": 60
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Amazon Brand - Inkast Denim Co. Men's Regular T-Shirt",
+        "amount": 229,
+        "printamount": 60,
+        "collamount": 40,
+        "image": "https://m.media-amazon.com/images/I/81V0Kv10zGL._SX569._SX._UX._SY._UY_.jpg",
+        "color": "Bay Green",
+        "collar": false,
+        "print": false,
+        "size": [
+            {
+                "size": "M",
+                "id": "m",
+                "price": 40
+            },
+            {
+                "size": "L",
+                "id": "l",
+                "price": 70
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Amazon Brand - Inkast Denim Co. Men's Regular T-Shirt",
+        "amount": 229,
+        "printamount": 60,
+        "collamount": 40,
+        "image": "https://production-dam-media.arco.co.uk/cdn/26K0300/images/I_26K0300_COf_ProdLarge_413173_1.jpg",
+        "color": "Bay Green",
+        "collar": true,
+        "print": false,
+        "size": [
+            {
+                "size": "M",
+                "id": "m",
+                "price": 80
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Amazon Brand - Inkast Denim Co. Men's Regular T-Shirt",
+        "amount": 229,
+        "printamount": 60,
+        "collamount": 40,
+        "image": "https://rukminim1.flixcart.com/image/612/612/l58iaa80/t-shirt/d/a/p/m-a1383-0062-levi-s-original-imagfyecgst9symr.jpeg?q=70",
+        "color": "Bay Green",
+        "collar": true,
+        "print": true,
+        "size": [
+            {
+                "size": "X",
+                "id": "x",
+                "price": 20
+            },
+            {
+                "size": "XL",
+                "id": "xl",
+                "price": 70
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Amazon Brand - Inkast Denim Co. Men's Regular T-Shirt",
+        "amount": 229,
+        "printamount": 60,
+        "collamount": 40,
+        "image": "https://m.media-amazon.com/images/I/81F+PLKnrKL._UX569_.jpg",
+        "color": "Bay Green",
+        "collar": false,
+        "print": true,
+        "size": [
+            {
+                "size": "XL",
+                "id": "xl",
+                "price": 50
+            }
+        ]
+    }
+]

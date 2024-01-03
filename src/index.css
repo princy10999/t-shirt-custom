@@ -1,0 +1,71 @@
+.swiper {
+  width: 400px;
+  height: 400px;
+  margin-left: 0 !important;
+}
+
+.swiper img {
+  height: 100%;
+  width: 100%;
+}
+.text{
+  margin-top: 20px;
+}
+.color {
+  margin-top: 20px;
+}
+.active{
+  margin: 5px;
+  background-color: #203731;
+  border: none;
+  border-radius: 2px ;
+  padding: 4px 7px;
+  font-size: 14px;
+  color: white;
+}
+.button{
+  margin: 5px;
+  border: none;
+  border-radius: 2px ;
+  padding: 4px 7px;
+  font-size: 14px;
+  color: black;
+}
+.size {
+  margin-left: 100px;
+}
+.name{
+  color: black;
+  font-size: 17px;
+}
+.price{
+  margin-top: 10px;
+  color: black;
+  font-size: 17px;
+  font-weight: 900;
+}
+.dflex{
+  display: flex;
+  align-items: center;
+}
+
+.color button {
+  cursor: pointer;
+  margin: 10px;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+.color .IrishNavy {
+  background-color: #00205b;
+}
+
+.color .BayGreen {
+  background-color: #203731;
+}
+
+.color .Black {
+  background-color: Black;
+}
